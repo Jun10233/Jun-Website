@@ -1,0 +1,59 @@
+.container-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    margin-top: 50px;
+}
+
+.container {
+    width: 400px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.image{
+    border-radius: 50%;
+    margin-bottom: 10px;
+    max-width: 100%;
+    max-height: 150px;
+    margin-top: 20px;
+}
+
+.topic {
+    color: #333;
+}
+  
+.url {
+    list-style: none;
+    padding: 0;
+}
+  
+.link {
+    margin: 10px 0;
+}
+
+.a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.a:hover {
+    background-color: #00000000;
+    color: #162938;
+}
+
+@media (max-width: 768px){
+    .container {
+        width: 300px;
+    }
+}

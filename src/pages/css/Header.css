@@ -1,0 +1,35 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #fff; /* Set background color */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add box shadow */
+  }
+
+.logo{
+    width: 40px;
+    height: 40px;
+    /*
+    height: 10%;
+    width: 10%;
+    */
+}
+
+.menu-item {
+    margin-right: 20px;
+}
+  
+.menu-item a {
+    text-decoration: none;
+    color: #000; /* Set link color */
+}
+  
+.menu-item:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.icon{
+    font-size: 2em;
+}
