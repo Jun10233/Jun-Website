@@ -17,6 +17,7 @@ I want to set up a personal website with simple social features, including the a
 Architecture Information:
 
 Frontend Framework: React
+
 Server: Firebase (Backend As A Service - BAAS platform)
 
 Here are the features of this website:
