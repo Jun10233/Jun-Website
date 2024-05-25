@@ -14,6 +14,11 @@ https://jun-website.web.app/ - Click here to visit my website
 
 I want to set up a personal website with simple social features, including the ability to post articles and photos. Additionally, I would like to establish a learning database to store links to websites and educational videos that have helped me in the past, as well as reference materials I used during my academic pursuits.
 
+Architecture Information:
+
+Frontend Framework: React
+Server: Firebase (Backend As A Service - BAAS platform)
+
 Here are the features of this website:
 
 1. **Login/Logout**
@@ -23,6 +28,8 @@ Here are the features of this website:
 2. **Publish a post**
    - Description: You can post either text-only or posts containing photos.
    - Link: /post
+
+Continuously updating...
 
 ## Skills
 
