@@ -23,13 +23,7 @@ Here are the features of this website:
 2. **Publish a post**
    - Description: You can post either text-only or posts containing photos.
    - Link: /post
-    /*  
-Here are the features and pages planned for future development of the website:
 
-1. **[Project 2 Name]**
-   - Description: The second project, focusing on [Project Content].
-   - Link: [Project 2 Link]
-*/
 ## Skills
 
 Here are the programming languages I have worked with:
