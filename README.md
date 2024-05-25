@@ -8,7 +8,7 @@ I am Jun, currently a university student majoring in Electrical Engineering. I e
 
 ## Website Link
 
-[My Website Link] - Click here to visit my website
+https://jun-website.web.app/ - Click here to visit my website
 
 ## Project Directory
 
