@@ -13,13 +13,13 @@ https://jun-website.web.app/ - Click here to visit my website(Not yet published)
 ## Project Directory
 
 I want to set up a personal website with simple social features, including the ability to post articles and photos. Additionally, I would like to establish a learning database to store links to websites and educational videos that have helped me in the past, as well as reference materials I used during my academic pursuits.
-<br/>
+<be>
 Architecture Information:
 
 Frontend Framework: React
 
 Server: Firebase (Backend As A Service - BAAS platform)
-<br/>
+<br>
 Here are the features of this website:
 
 1. **Login/Logout**
