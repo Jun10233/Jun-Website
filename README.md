@@ -8,7 +8,7 @@ I am Jun, currently a university student majoring in Electrical Engineering. I e
 
 ## Website Link
 
-https://jun-website.web.app/ - Click here to visit my website(Currently unavailable)
+https://jun-website.web.app/ - Click here to visit my website(Not yet published)
 
 ## Project Directory
 
@@ -33,7 +33,7 @@ Continuously updating...
 
 ## Skills
 
-Here are the programming languages I have worked with:
+Here are the programming languages I have learned:
 
 - C/C++/C#
 - Python
