@@ -20,7 +20,6 @@ Architecture Information:
 Frontend Framework: React
 
 Server: Firebase (Backend As A Service - BAAS platform)
-
 &nbsp;
 
 Here are the features of this website:
